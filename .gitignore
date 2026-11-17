@@ -1,0 +1,8 @@
+﻿.env
+*.pem
+*.zip
+.aws/
+credentials
+__pycache__/
+venv/
+.vscode/

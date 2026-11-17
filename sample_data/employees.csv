@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Designation,City,JoinDate,Age,Salary
+1001,Ravi Kumar,Engineering,Software Engineer,Hyderabad,2022-06-15,26,720000
+1002,  Anitha Reddy ,Data,Data Analyst,Hyderabad,2021-03-01,28,650000
+1003,Suresh Babu,Engineering,Senior Engineer,Bengaluru,2019-08-12,32,1450000
+1004,Priya Sharma,HR,HR Executive,Hyderabad,2023-01-09,25,480000
+1005,Kiran Rao,Finance,Accountant,Chennai,2020-11-23,,550000
+1006,Meena Devi,Data,Data Engineer,Hyderabad,2022-09-05,27,900000
+1006,Meena Devi,Data,Data Engineer,Hyderabad,2022-09-05,27,900000
+1007,  Arjun Varma,Engineering,Tech Lead,Pune,2018-04-30,35,2100000
+1008,Lakshmi Narayana,Sales,Sales Manager,Hyderabad,2019-02-18,34,
+1009,Vamsi Krishna,Engineering,QA Engineer,Bengaluru,2023-07-24,,520000
+1010,Divya Teja,Marketing,Content Strategist,Hyderabad,2021-12-13,29,610000
+1011,Rahul Verma,Finance,Financial Analyst,Mumbai,2020-05-06,30,780000
+1012,Sneha Patel,Data,Data Scientist,Pune,2022-01-17,28,1250000
+1013,Mohammed Irfan,Engineering,DevOps Engineer,Hyderabad,2021-10-04,29,-850000
+1014,Harika Chowdary,HR,HR Manager,Chennai,2017-06-26,38,1300000
+1015,Naveen Goud,Sales,Sales Executive,Hyderabad,2023-03-20,24,420000
+1015,Naveen Goud,Sales,Sales Executive,Hyderabad,2023-03-20,24,420000
+1016,Pooja Singh,Marketing,Marketing Manager,Mumbai,2018-09-10,36,1500000
+1017,Sandeep Reddy,Engineering,Software Engineer,Hyderabad,2022-11-28,27,740000
+1018,Bhavana K,Data,Data Analyst,Bengaluru,2023-05-15,25,580000

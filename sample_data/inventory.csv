@@ -1,0 +1,18 @@
+ProductID,ProductName,Category,Warehouse,Supplier,LastRestocked,StockQty,UnitCost
+P101,Wireless Mouse,Accessories,Hyderabad,TechSource India,2026-09-12,150,420
+P102,  Mechanical Keyboard ,Accessories,Hyderabad,TechSource India,2026-09-12,80,1450
+P103,27-inch Monitor,Electronics,Bengaluru,Vision Displays,2026-09-20,35,11800
+P104,Laptop Stand,Accessories,Hyderabad,DeskWorks,2026-10-01,,650
+P105,Ergonomic Chair,Furniture,Pune,ComfortLine,2026-08-25,22,5600
+P105,Ergonomic Chair,Furniture,Pune,ComfortLine,2026-08-25,22,5600
+P106,Webcam HD,Electronics,Hyderabad,Vision Displays,2026-10-05,60,2100
+P107,  USB-C Hub,Accessories,Chennai,TechSource India,2026-09-30,95,
+P108,Standing Desk,Furniture,Bengaluru,ComfortLine,2026-09-18,12,14200
+P109,Noise Cancelling Headphones,Electronics,Mumbai,SoundMax,2026-10-08,48,6900
+P110,Notebook Pack,Stationery,Hyderabad,PaperPlus,2026-10-10,500,85
+P111,Whiteboard Markers,Stationery,Pune,PaperPlus,2026-10-10,,40
+P112,Desk Lamp,Furniture,Hyderabad,DeskWorks,2026-09-27,70,780
+P113,External SSD 1TB,Electronics,Bengaluru,DataVault,2026-10-12,40,6500
+P114,Printer Paper A4,Stationery,Chennai,PaperPlus,2026-10-14,320,260
+P114,Printer Paper A4,Stationery,Chennai,PaperPlus,2026-10-14,320,260
+P115,Bluetooth Speaker,Electronics,Mumbai,SoundMax,2026-10-15,55,2300

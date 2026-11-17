@@ -1,0 +1,19 @@
+OrderID,CustomerName,Product,Category,City,OrderDate,Quantity,UnitPrice
+5001,Ravi Kumar,Laptop,Electronics,Hyderabad,2026-10-01,1,55000
+5002,  Anitha Reddy ,Wireless Mouse,Accessories,Hyderabad,2026-10-02,2,650
+5003,Suresh Babu,Office Chair,Furniture,Bengaluru,2026-10-03,1,7200
+5004,Priya Sharma,Notebook Pack,Stationery,Hyderabad,2026-10-03,5,120
+5005,Kiran Rao,Monitor,Electronics,Chennai,2026-10-04,,14500
+5006,Meena Devi,Keyboard,Accessories,Hyderabad,2026-10-05,1,1800
+5006,Meena Devi,Keyboard,Accessories,Hyderabad,2026-10-05,1,1800
+5007,  Arjun Varma,Desk Lamp,Furniture,Pune,2026-10-06,3,950
+5008,Lakshmi Narayana,Printer,Electronics,Hyderabad,2026-10-07,1,
+5009,Vamsi Krishna,USB Cable,Accessories,Bengaluru,2026-10-08,4,250
+5010,Divya Teja,Standing Desk,Furniture,Hyderabad,2026-10-09,1,18500
+5011,Rahul Verma,Headphones,Electronics,Mumbai,2026-10-10,2,3200
+5012,Sneha Patel,Marker Set,Stationery,Pune,2026-10-11,6,90
+5013,Mohammed Irfan,Webcam,Electronics,Hyderabad,2026-10-12,1,2800
+5014,Harika Chowdary,Bookshelf,Furniture,Chennai,2026-10-13,,6400
+5015,Naveen Goud,Stapler,Stationery,Hyderabad,2026-10-14,10,75
+5015,Naveen Goud,Stapler,Stationery,Hyderabad,2026-10-14,10,75
+5016,Pooja Singh,Tablet,Electronics,Mumbai,2026-10-15,1,32000

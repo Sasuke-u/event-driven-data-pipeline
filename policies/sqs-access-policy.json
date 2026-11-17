@@ -1,0 +1,15 @@
+﻿{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": { "Service": "s3.amazonaws.com" },
+      "Action": "sqs:SendMessage",
+      "Resource": "arn:aws:sqs:ap-south-1:<ACCOUNT_ID>:santhosh-pipeline-queue",
+      "Condition": {
+        "ArnLike": { "aws:SourceArn": "arn:aws:s3:::santhosh-event-pipeline" },
+        "StringEquals": { "aws:SourceAccount": "<ACCOUNT_ID>" }
+      }
+    }
+  ]
+}
